@@ -1,6 +1,6 @@
 ### Andrew Dinh
 
-I'm a software developer working towards a better future.
+Software developer creating a better feature
 
 ![andrewkdinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewkdinh&hide_rank=true&hide_border=true&show_icons=true)
 
